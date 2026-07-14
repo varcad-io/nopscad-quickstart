@@ -1,0 +1,6 @@
+{
+  "title": "NopSCADlib Quickstart",
+  "entryPath": "/index.scad",
+  "linkedLibraries": ["NopSCAD"],
+  "features": ["openscad", "nopscad", "widgets", "quickstart"]
+}

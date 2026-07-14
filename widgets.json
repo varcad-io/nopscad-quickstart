@@ -1,0 +1,23 @@
+[
+  {
+    "name": "radius",
+    "type": "Slider",
+    "description": "Cylinder radius",
+    "range": "5,24,1",
+    "defaultValue": "10"
+  },
+  {
+    "name": "height",
+    "type": "Slider",
+    "description": "Cylinder height",
+    "range": "8,50,1",
+    "defaultValue": "20"
+  },
+  {
+    "name": "fillet",
+    "type": "Slider",
+    "description": "Edge fillet radius",
+    "range": "0.5,5,0.5",
+    "defaultValue": "2"
+  }
+]
