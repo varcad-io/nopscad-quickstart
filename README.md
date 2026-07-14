@@ -1,3 +1,5 @@
+[![NopSCADlib Quickstart geometry preview](https://varcad.io/assets/repository-previews/27/87/preview-v8/orbit.webp)](https://varcad.io/varcad-io/nopscad-quickstart)
+
 # NopSCADlib Quickstart
 
 [Launch this project in the Varcad IDE](https://varcad.io/varcad-io/nopscad-quickstart)
